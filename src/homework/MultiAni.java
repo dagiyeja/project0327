@@ -32,7 +32,6 @@ public class MultiAni extends JFrame{
 		
 		
 		
-		
 		can.setBackground(Color.YELLOW);
 		
 		add(bt, BorderLayout.NORTH);
